@@ -6,20 +6,18 @@ Express is a webapp framework used to create API's
 
 **What purpose does it serve?**
 Express was created to make APIs and web applications with ease,
-The reason behind creating an express framework for node js is:
+Some of the reasons behind choosing express are:
 <ul>
 <li>Speed</li>
 <li>Scalability</li>
-<li>Economical</li>
 <li>Simplicity</li>
-<li>Asynchronous</li>
 <a href = "https://www.simplilearn.com/tutorials/nodejs-tutorial/what-is-express-js#:~:text=BootcampExplore%20Program-,What%20Is%20Express%20JS%3F,helps%20manage%20servers%20and%20routes.">[Reference #1]</a>
 </ul>
 
 
-**How do you use it?**
-
+**How do you use it?**<br>
 Install Express using the following command
+
 ```npm install express```
 
 Embedded below is essentially the simplest Express app you can create.
@@ -70,12 +68,22 @@ This app starts a server and listens on port 3000 for connections. The app respo
 **What are the functionalities of the package/library?**
 
 <ol>
-<li>Routing</li>
-<li>Middleware</li>
-<li>HTTP Methods</li>
-<li>Static file serving</li>
-<li>Error handling</li>
-<li>Security features</li>
+<li> Routing <br>
+Routing refers to how an application’s endpoints (URIs) respond to client requests. <a href = "https://expressjs.com/en/guide/routing.html">[Reference #3]</a></li>
+
+<li>Middleware<br>
+Middleware functions are functions that have access to the request object (req), the response object (res), and the next middleware function in the application’s request-response cycle.
+<a href = "https://expressjs.com/en/guide/using-middleware.html">[Reference #4]</a></li>
+
+<li>HTTP Methods<br>
+Express supports methods that correspond to all HTTP request methods: get, post, and so on.<a href = "https://expressjs.com/en/guide/routing.html">[Reference #5]</a></li>
+
+<li>Static file serving<br>
+Express offers users the ability to serve static files such as images, CSS files, and JavaScript files</li>
+
+<li>Error handling<br>
+Express comes with a default error handler so you don’t need to write your own to get started.<a href = "https://expressjs.com/en/guide/error-handling.html">[Reference #6]</a></li>
+ 
 <li>Database integration</li>
 <li>Rest API Development</li>
 <li>High performance</li>
