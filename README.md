@@ -10,7 +10,7 @@
 
 - pull the code from this repo
 - start the express server via the "node server" command in the terminal (make sure you're cd'd in correctly)
-- start a local server for index.html page viewing
+- start a local server for index.html page viewing (vscode has a live server available as an extension)
 - open the html page and encrypt/decrypt away!
 
 ##### setup (postman)
@@ -36,5 +36,5 @@
 My program is a basic encryptor app, it is used to make private data unreadable to other users.
 
 6. What would be some sample input/output?
-input: test
-output: 601c361797b8d48be44a13bd1e25115199c43d0cfe574ee88e63e5af37872ee42bb1dbdd358ab2bdbfe71b0c1724bb837acfbe17b6c26eb566872390159a3c3d1eadef8e2788a7105ecc3241785b2229de2a5a246ff4c1e0ba00786860eafb3be6a84f84
+input:<br> test
+output: <br> 601c361797b8d48be44a13bd1e25115199c43d0cfe574ee88e63e5af37872ee42bb1dbdd358ab2bdbfe71b0c1724bb837acfbe17b6c26eb566872390159a3c3d1eadef8e2788a7105ecc3241785b2229de2a5a246ff4c1e0ba00786860eafb3be6a84f84
