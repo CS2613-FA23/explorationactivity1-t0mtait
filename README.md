@@ -2,10 +2,10 @@
 # ExplorationActivity1
 
 
-1. Which package/library does the sample program demonstrate?
+**Which package/library does the sample program demonstrate?**
 <br> Express.js
 
-2. How does someone run your program?
+**How does someone run your program?** <br>
 You can run my program as a webapp or just test API functionality via postman
 ##### setup (webapp)
 
