@@ -6,6 +6,7 @@
 <br> Express.js
 
 2. How does someone run your program?
+You can run my program as a webapp or just test API functionality via postman
 ##### setup (webapp)
 
 - pull the code from this repo
