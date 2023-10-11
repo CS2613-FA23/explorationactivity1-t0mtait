@@ -85,11 +85,11 @@ Express offers users the ability to serve static files such as images, CSS files
 Express comes with a default error handler so you don’t need to write your own to get started.<a href = "https://expressjs.com/en/guide/error-handling.html">[Reference #6]</a></li>
 </ol>
 
-**When was it created?**
+**When was it created?** <br>
 Node was initially released, for Linux only, in 2009. The npm package manager was released in 2010, and native Windows support was added in 2012.
 <a href = "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction">[Reference #3]</a>
 
-**Why did you select this package/library?**
+**Why did you select this package/library?** <br>
 I've been starting to explore web development over the past couple months and after building an O.K understanding of html and css, I've begun to use javascript to allow myself to add dynamism to websites. Express is an extremely commonly used library for creating a simple backend for webapps and I have been trying to get around to learning it, and this assignment finally pushed me into working with it.
 
 
