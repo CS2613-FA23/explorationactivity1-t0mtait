@@ -1,9 +1,9 @@
 # ExpressJS Package Exploration
 
-**What is the package/library?**
+**What is the package/library?**<br>
 Express is a webapp framework used to create API's
 
-**What purpose does it serve?**
+**What purpose does it serve?**<br>
 Express was created to make APIs and web applications with ease,
 Some of the reasons behind choosing express are:
 <ul>
