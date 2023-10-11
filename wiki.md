@@ -1,5 +1,4 @@
-**Which package/library did you select?**
-I chose the ExpressJS Package
+# ExpressJS Package Exploration
 
 **What is the package/library?**
 Express is a webapp framework used to create API's
