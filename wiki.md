@@ -87,7 +87,7 @@ Express comes with a default error handler so you don’t need to write your own
 
 **When was it created?** <br>
 Node was initially released, for Linux only, in 2009. The npm package manager was released in 2010, and native Windows support was added in 2012.
-<a href = "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction">[Reference #3]</a>
+<a href = "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction">[Reference #7]</a>
 
 **Why did you select this package/library?** <br>
 I've been starting to explore web development over the past couple months and after building an O.K understanding of html and css, I've begun to use javascript to allow myself to add dynamism to websites. Express is an extremely commonly used library for creating a simple backend for webapps and I have been trying to get around to learning it, and this assignment finally pushed me into working with it.
@@ -100,3 +100,23 @@ The main thing I've realized about nodejs is how reliant It is on other packages
 **How was your overall experience with the package/library?**<br>
 Express is surprisingly simple to use. as I mentioned earlier, I spent the summer learning frontend web development with html and css (and a bit of js), so switching to backend and working with express was quite different, however
 you can really make an express server as simple as you'd like. I plan to continue to work with it and learn more about it's functionality over the coming months. I would recommend this package to anyone who is interested in nodejs development or web development.
+
+
+
+
+References:
+<br>
+[1] <a href = "https://www.simplilearn.com/tutorials/nodejs-tutorial/what-is-express-js#:~:text=BootcampExplore%20Program-,What%20Is%20Express%20JS%3F,helps%20manage%20servers%20and%20routes.">simplilearn.com/whatisexpress</a>
+<br>
+[2] <a href = "https://expressjs.com/en/starter/hello-world.html">expressjs.com/hello-world</a>
+<br>
+[3] <a href = "https://expressjs.com/en/guide/routing.html">expressjs.com/routing</a>
+<br>
+[4] <a href = "https://expressjs.com/en/guide/using-middleware.html">expressjs.com/middleware</a>
+<br>
+[5] <a href = "https://expressjs.com/en/guide/routing.html">expressjs.com/httprequests</a>
+<br>
+[6] <a href = "https://expressjs.com/en/guide/error-handling.html">expressjs.com/error-handling</a>
+<br>
+[7] <a href = "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction">mozilla.org/express_nodejs</a>
+
