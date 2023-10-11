@@ -17,6 +17,7 @@
 ##### setup (postman)
 
 - pull the code from this repo
+- cd into the src folder in the terminal
 - start the express server via the "node server" command in the terminal (make sure you're cd'd in correctly)
 
 ###### Encrypting
