@@ -83,17 +83,20 @@ Express offers users the ability to serve static files such as images, CSS files
 
 <li>Error handling<br>
 Express comes with a default error handler so you don’t need to write your own to get started.<a href = "https://expressjs.com/en/guide/error-handling.html">[Reference #6]</a></li>
- 
-<li>Database integration</li>
-<li>Rest API Development</li>
-<li>High performance</li>
 </ol>
+
 **When was it created?**
 Node was initially released, for Linux only, in 2009. The npm package manager was released in 2010, and native Windows support was added in 2012.
 <a href = "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction">[Reference #3]</a>
 
 **Why did you select this package/library?**
+I've been starting to explore web development over the past couple months and after building an O.K understanding of html and css, I've begun to use javascript to allow myself to add dynamism to websites. Express is an extremely commonly used library for creating a simple backend for webapps and I have been trying to get around to learning it, and this assignment finally pushed me into working with it.
+
 
 **How did learning the package/library influence your learning of the language?**
+The main thing I've realized about nodejs is how reliant It is on other packages and libraries for even simple functionality. After doing a couple google searches, I confirmed that nodejs is a very minimal language, to minimize functionality 'bloat' and maximize efficiency. Before learning this, I was already beginning to become a big fan of writing nodejs because of how clean it felt to write, and how modern it was in terms of its community and usability, but after learning this it makes me even more interested in the language, knowing that it is often high-performance and high-efficiency as well due to reasons such as it's minimalistic design.
+
 
 **How was your overall experience with the package/library?**
+Express is surprisingly simple to use. as I mentioned earlier, I spent the summer learning frontend web development with html and css (and a bit of js), so switching to backend and working with express was quite different, however
+you can really make an express server as simple as you'd like. I plan to continue to work with it and learn more about it's functionality over the coming months.
