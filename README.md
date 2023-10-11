@@ -9,6 +9,7 @@
 ##### setup (webapp)
 
 - pull the code from this repo
+- cd into the src folder in the terminal
 - start the express server via the "node server" command in the terminal (make sure you're cd'd in correctly)
 - start a local server for index.html page viewing (vscode has a live server available as an extension)
 - open the html page and encrypt/decrypt away!
