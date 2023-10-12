@@ -35,10 +35,10 @@ You can run my program as a webapp or just test the API functionality via postma
 - input the following in the json body: "text": "string" (replace string with encrypted text)
 - click send!
 
-4. What purpose does your program serve? <br>
+**What purpose does your program serve?** <br>
 My program is a basic encryptor app, it is used to make private data unreadable to other users.
 
-6. What would be some sample input/output? <br>
+**What would be some sample input/output?** <br>
 input:<br> test <br> [encrypt] <br>
 output: <br> 601c361797b8d48be44a13bd1e25115199c43d0cfe574ee88e63e5af37872ee42bb1dbdd358ab2bdbfe71b0c1724bb837acfbe17b6c26eb566872390159a3c3d1eadef8e2788a7105ecc3241785b2229de2a5a246ff4c1e0ba00786860eafb3be6a84f84 <br><br>
 input: 601c361797b8d48be44a13bd1e25115199c43d0cfe574ee88e63e5af37872ee42bb1dbdd358ab2bdbfe71b0c1724bb837acfbe17b6c26eb566872390159a3c3d1eadef8e2788a7105ecc3241785b2229de2a5a246ff4c1e0ba00786860eafb3be6a84f84 <br> [decrypt] <br>
